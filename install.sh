@@ -81,16 +81,15 @@ RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
 echo -e "${CYAN}|-------------|---------------|----------------|----------------|${NC}"
-echo -e "${CYAN}|EDIT     __  |BY  _______    | ___ POUYA.P___ |  ____________  |${NC}"
+echo -e "${CYAN}|EDIT     __  |BY  _______    | ___ mr_jwker___ |  ____________  |${NC}"
 echo -e "${CYAN}|        |  | |   /  __   \   | \  \      /  / | |   _________| |${NC}"
 echo -e "${CYAN}|        |  | |  /  |  |   \  |  \  \    /  /  | |  |_________  |${NC}"
 echo -e "${CYAN}| ___    /  / | |   |  |    | |   \  \  /  /   | |   _________| |${NC}"
 echo -e "${CYAN}| \  \__/  /  |  \  |__|   /  |    \  \/  /    | |  |_________  |${NC}"
 echo -e "${CYAN}|  \______/   |   \_______/   |     \____/     | |____________| |${NC}"
 echo -e "${CYAN}|-------------|---------------|----------------|----------------|${NC}"
-echo -e "${CYAN}|THIS SOURCE BASED ON TELEMUTE AND EDITED FOR JOVEGOD BY POUYA.P|${NC}"
 echo -e "${CYAN}|-------------|---------------|----------------|----------------|${NC}"
-echo -e "${CYAN}JOVE GOD INSTALLED! Create a bot with launch(./launch.sh)${NC}"
+echo -e "${CYAN}jwker GOD INSTALLED! Create a bot with launch(./launch.sh)${NC}"
 echo -e "${CYAN}Edit and put your sudo id in(nano bot.lua)${NC}"
-echo -e "${CYAN}Then use anticrash for lifetime runing bot(screen ./jove.sh)${NC}"
+echo -e "${CYAN}Then use anticrash for lifetime runing bot(screen ./jwker)${NC}"
 exit
