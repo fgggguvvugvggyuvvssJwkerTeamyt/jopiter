@@ -9,19 +9,5 @@ cd $HOME
 git clone https://github.com/jwkerteam/jopiter.git
 cd jopiter
 chmod +x install.sh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ./install.sh
 
