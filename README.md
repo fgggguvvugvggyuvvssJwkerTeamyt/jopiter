@@ -1,7 +1,7 @@
-# [JOVE GOD](https://github.com/JOVETEAM/jove)
+# [JWKER](https://github.com/jwkerteam/jopiter)
 *TG-CLI based broadcasting bot!*
 
-*JoveGod was based on TeleMute!*
+*jwkerGode was based on TeleMute!*
 # Install
 ```
 cd $HOME
